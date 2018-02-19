@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["christopher.continanza@gmail.com"]
   spec.description   = %q{Provides syscalls to the monotonically increasing system clock}
   spec.summary       = %q{Monotonic.now for precision time diffs.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/csquared/monotonic"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
